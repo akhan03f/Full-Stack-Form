@@ -12,7 +12,7 @@
 
 <?php $lastn=$_POST["lastn"]; ?>
 <?php
-  $DBConnect = mysql_connect("itec315.frostburg.edu","akhan03","3125589");
+  $DBConnect = mysql_connect("itec315.frostburg.edu","akhan03","pw");
 
     if ($DBConnect === false)
       print "Unable to connect to database. Error Number: ".mysql_errno();
