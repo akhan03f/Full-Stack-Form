@@ -1,0 +1,119 @@
+
+
+body {
+  background-color: #A1A1A1;
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  font-family: monospace;
+  color: #ededed;
+  font-weight: bold;
+  opacity: 95%;
+  font-size: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  text-transform: uppercase;
+}
+
+
+#heading {
+  color: black;
+}
+
+#intro {
+  margin-bottom: 50px;
+  font-size: 120%;
+  font-weight: bold;
+  color: black;
+}
+
+
+background {
+  background-color: #A1A1A1;
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 4%;
+  background: #36454F;
+  max-width: 400px;
+  width: 70%;
+  border: 10px solid;
+  border-color: black;
+  border-radius: 15px;
+}
+
+#ninput {
+  margin-left: left;
+  margin right: right;
+}
+
+input[type=text] {
+  background-color: #ededed;
+  display: inline-block;
+  width: 100%;
+  padding: 12px 20px;
+  margin: 5px 0;
+  border: 3px solid #FFD23F;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+select {
+  text-align: center;
+  background-color: #ededed;
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  border: 5px solid #FFD23F;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+  column-width: 80%;
+}
+
+#div5 { /* div for favorite number number*/
+  background-color: #ededed;
+  display: inline-block;
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  border: 3px solid #FFD23F;
+  border-radius: 4px;
+  box-sizing: border-box;
+  background-color: gray;
+  margin-bottom: 20px;
+}
+
+button {
+  display: block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+
+  background-color: black;
+  color: black;
+  color: #ededed;
+  font-weight: bold;
+  opacity: 95%;
+  font-size: 120%;
+  text-transform: uppercase;
+  border: 0.4px solid #FFD23F;
+  margin-bottom: 20px;
+}
+
+#data {
+  color: black;
+}
